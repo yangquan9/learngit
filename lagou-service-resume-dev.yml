@@ -1,0 +1,4 @@
+mysql:
+  url: dev-http://localhost:3306/yangquan_java
+lagou:
+  message: hello yangquan,100
